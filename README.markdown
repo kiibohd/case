@@ -9,5 +9,6 @@ Projects
 --------
 
 * infinity-keyboard (Infinity Keyboard 2014/10/15)
+* infinity-ergodox (Infinity Ergodox 2015/03/31)
 
 
